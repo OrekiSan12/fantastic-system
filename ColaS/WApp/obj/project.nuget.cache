@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "b9cZi3NAryAAj1y2tmAqYMx3FgHuO3K4y/M2t3WIMkR53gSGQzedJVHSjb3T1QoRelcFXDK67hHrDIaUDZ1B4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\ColaS\\WApp\\WApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

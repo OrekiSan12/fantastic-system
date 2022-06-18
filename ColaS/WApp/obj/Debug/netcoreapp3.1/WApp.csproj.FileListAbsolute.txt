@@ -1,0 +1,41 @@
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.exe
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.deps.json
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.json
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.dev.json
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.dll
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.pdb
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\CApp.dll
+E:\EDI\ED v1\ColaS\WApp\bin\Debug\netcoreapp3.1\CApp.pdb
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csprojAssemblyReference.cache
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.FColaS.resources
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.Form1.resources
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.GenerateResource.cache
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfoInputs.cache
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfo.cs
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.CoreCompileInputs.cache
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.CopyComplete
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.dll
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.pdb
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.genruntimeconfig.cache
+E:\EDI\ED v1\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.FColasC.resources
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.exe
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.deps.json
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.json
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.runtimeconfig.dev.json
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.dll
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\WApp.pdb
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\CApp.dll
+C:\Users\Hp\Desktop\ColaS\WApp\bin\Debug\netcoreapp3.1\CApp.pdb
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.FColaS.resources
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.FColasC.resources
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.Form1.resources
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.AssemblyInfo.cs
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.csproj.CopyComplete
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.dll
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.pdb
+C:\Users\Hp\Desktop\ColaS\WApp\obj\Debug\netcoreapp3.1\WApp.genruntimeconfig.cache

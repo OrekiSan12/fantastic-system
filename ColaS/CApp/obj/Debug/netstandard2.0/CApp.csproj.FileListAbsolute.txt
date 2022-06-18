@@ -1,0 +1,9 @@
+E:\EDI\ED v1\ColaS\CApp\bin\Debug\netstandard2.0\CApp.deps.json
+E:\EDI\ED v1\ColaS\CApp\bin\Debug\netstandard2.0\CApp.dll
+E:\EDI\ED v1\ColaS\CApp\bin\Debug\netstandard2.0\CApp.pdb
+E:\EDI\ED v1\ColaS\CApp\obj\Debug\netstandard2.0\CApp.csprojAssemblyReference.cache
+E:\EDI\ED v1\ColaS\CApp\obj\Debug\netstandard2.0\CApp.AssemblyInfoInputs.cache
+E:\EDI\ED v1\ColaS\CApp\obj\Debug\netstandard2.0\CApp.AssemblyInfo.cs
+E:\EDI\ED v1\ColaS\CApp\obj\Debug\netstandard2.0\CApp.csproj.CoreCompileInputs.cache
+E:\EDI\ED v1\ColaS\CApp\obj\Debug\netstandard2.0\CApp.dll
+E:\EDI\ED v1\ColaS\CApp\obj\Debug\netstandard2.0\CApp.pdb
